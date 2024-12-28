@@ -421,7 +421,6 @@ class SocialCubit extends Cubit<SocialStates> {
     required context,
   }) {
     emit(SocialCreatePostLoadingState());
-
     if (postImageFile != null) {
       uploadPostImage(text: text, dateTime: dateTime, context: context);
     } else {
