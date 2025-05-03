@@ -109,14 +109,6 @@ flutter run
 
 ---
 
-## 🎥 Demo
-
-A demo of the app is available here:
-
-* **Video**: `Demo of The Mobile App/Video Demo.webm`
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
