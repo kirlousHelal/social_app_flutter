@@ -27,23 +27,28 @@ This is a **Mini Social App** built using **Flutter** and **Firebase**. It offer
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-Screenshots are located in the `Projects_Images` directory:
+Screenshots are located in the `Project_Images` directory:
 
 | Home Screen                                           | Home Screen 2                                           | Home Screen 3                                           |
-| ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ |
-| ![](Project_Images/Home%20Screen.png) | ![](Project_Images/Home%20Screen%202.png) | ![](Project_Images/Home%20Screen%203.png) |
+| ---------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| ![](Project_Images/Home%20Screen.png)                | ![](Project_Images/Home%20Screen%202.png)              | ![](Project_Images/Home%20Screen%203.png)              |
 
-| Chats Screen                           | Chat Screen                           | Create Post Screen                                          |
-| -------------------------------------- | ------------------------------------- | ----------------------------------------------------------- |
-| ![](Project_Images/Chats%20Screen.png) | ![](Project_Images/Chat%20Screen.png) | ![](Project_Images/Create%20Post%20Screen.png)              |
+| Chats Screen                                          | Chat Screen                                            | Create Post Screen                                     |
+| ----------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| ![](Project_Images/Chats%20Screen.png)                | ![](Project_Images/Chat%20Screen.png)                 | ![](Project_Images/Create%20Post%20Screen.png)         |
 
-| Edit Profile Screen                                                                                                     |
-| --------------------|
-| ![](Project_Images/Edit%20Profile%20Screen.png) |
+| Edit Profile Screen                                   |
+| ----------------------------------------------------- |
+| ![](Project_Images/Edit%20Profile%20Screen.png)       |
 
 ---
+
+🎬 **Video Demo**:  
+You can also check out a short demo video here:  
+📽️ `Project_Images/Video Demo.webm`
+
 
 ## 🧱 Architecture
 
