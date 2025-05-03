@@ -27,23 +27,21 @@ This is a **Mini Social App** built using **Flutter** and **Firebase**. It offer
 
 ---
 
-## 🖼️ Screens
+## 🖼️ Screenshots
 
-Screenshots are located in the `Demo of The Mobile App` directory:
+Screenshots are located in the `Projects_Images` directory:
 
-* 🏠 **Home Screens**
+| Home Screen                                           | Home Screen 2                                           | Home Screen 3                                           |
+| ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ |
+| ![](Project_Images/Home%20Screen.png) | ![](Project_Images/Home%20Screen%202.png) | ![](Project_Images/Home%20Screen%203.png) |
 
-  * Home Screen.png
-  * Home Screen 2.png
-  * Home Screen 3.png
-* 💬 **Chats**
+| Chats Screen                           | Chat Screen                           | Create Post Screen                                          |
+| -------------------------------------- | ------------------------------------- | ----------------------------------------------------------- |
+| ![](Project_Images/Chats%20Screen.png) | ![](Project_Images/Chat%20Screen.png) | ![](Project_Images/Create%20Post%20Screen.png)              |
 
-  * Chats Screen.png
-  * Chat Screen.png
-* ➕ **Create & Edit**
-
-  * Create Post Screen.png
-  * Edit Profile Screen.png
+| Edit Profile Screen                                                                                                     |
+| --------------------|
+| ![](Project_Images/Edit%20Profile%20Screen.png) |
 
 ---
 
