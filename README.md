@@ -31,7 +31,7 @@ This is a **Mini Social App** built using **Flutter** and **Firebase**. It offer
 
 Screenshots are located in the `Project_Images` directory:
 
-| Home Screen                                           | Home Screen 2                                           | Home Screen 3                                           |
+| Home Screen                                           | Home Screen 2                                         | Home Screen 3                                          |
 | ---------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
 | ![](Project_Images/Home%20Screen.png)                | ![](Project_Images/Home%20Screen%202.png)              | ![](Project_Images/Home%20Screen%203.png)              |
 
